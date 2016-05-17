@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-05-17 21:19:53</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>a7cd6d4c4f2fd200640d01b18110c795</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_acmsp_gametimeno_game_players.x_acmsp_gametimeno_game_players_user</sys_name>
+        <sys_package display_value="GameTimeNow" source="x_acmsp_gametimeno">2a87e9884f2fd200640d01b18110c74f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="GameTimeNow">2a87e9884f2fd200640d01b18110c74f</sys_scope>
+        <sys_security_acl display_value="x_acmsp_gametimeno_game_players">6bcd6d4c4f2fd200640d01b18110c794</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a7cd6d4c4f2fd200640d01b18110c795</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-05-17 21:19:53</sys_updated_on>
+        <sys_user_role display_value="x_acmsp_gametimeno_game_players_user" name="x_acmsp_gametimeno_game_players_user">2acde94c4f2fd200640d01b18110c767</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
